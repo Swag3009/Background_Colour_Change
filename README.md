@@ -1,8 +1,15 @@
-# Random Background Color Changer Web App
+# Random Background Color Changer
 
 This web app dynamically changes the background color of the page to random colors every second. It includes **Start** and **Stop** buttons for controlling the color-changing process. Built with **HTML**, **CSS**, and **JavaScript**, this project is ideal for practicing DOM manipulation and event handling.
 
----
+## Screenshots
+
+![ScreenShot](./screenshot.png)
+
+## Live Demo
+
+Check out the live demo of the app [here](https://swag3009.github.io/Background_Colour_Change/).  
+
 
 ## Features
 
@@ -11,7 +18,6 @@ This web app dynamically changes the background color of the page to random colo
 - Simple, clean, and responsive design.
 - Lightweight implementation with vanilla JavaScript.
 
----
 
 ## Project Structure
 
@@ -19,7 +25,6 @@ This web app dynamically changes the background color of the page to random colo
 - **CSS**: Provides styling and layout for the buttons and background.
 - **JavaScript**: Implements the logic for random color generation and interval control.
 
----
 
 ## How to Use
 
@@ -28,29 +33,12 @@ This web app dynamically changes the background color of the page to random colo
 3. Use the Start button to begin changing the background color.
 4. Use the Stop button to pause the color-changing process.
 
----
-
 ## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
----
-
-## How It Works
-
-- The app uses JavaScript to generate random background colors using a predefined algorithm.
-- The Start button triggers an interval that updates the background color every second.
-- The Stop button clears the interval, halting the color-changing process.
-
----
-
-## Live Demo
-
-Check out the live demo of the app [here]().  
-
----
 
 ## Learning Outcomes
 
@@ -58,10 +46,5 @@ Check out the live demo of the app [here]().
 - Experience with JavaScript functions such as setInterval and clearInterval.
 - Gained familiarity with creating interactive web applications.
 
----
 
-## Screenshots
 
-[ScreenShot](./screenshot.png)
-
----
